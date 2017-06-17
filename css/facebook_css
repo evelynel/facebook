@@ -5,5 +5,22 @@ width : 20px
 background-color : navy
 }
 .corps {
-background-color : LightSteelBlue
+background-color : LightSteelBlue;
+height : 300px
+}
+.gauche {
+float : left;
+text-align : center;
+width : 30%
+}
+.milieu {
+background-color : white;
+float : left;
+text-align : center;
+width : 40%
+}
+.droite{
+float : left;
+text-align : center;
+width : 30%
 }
