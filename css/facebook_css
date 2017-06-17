@@ -1,0 +1,9 @@
+img {
+width : 20px
+}
+.en-tete {
+background-color : navy
+}
+.corps {
+background-color : LightSteelBlue
+}
